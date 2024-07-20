@@ -1,0 +1,16 @@
+
+- [ ] Lavar a louça 📅 2024-07-17 🔁 every day
+- [ ] Carregar eletrônicos  🔁 every day 📅 2024-07-16
+- [ ] Verificar agenda 📅 2024-07-16 🔁 every day #rotinapessoal
+- [ ] Arrumar a cama #rotinapessoal
+- [ ] Processar inboxes #rotinapessoal
+- [ ] Arrumar a casa 15 min #rotinapessoal
+- [ ] Me atualizar sobre a UDESC #rotinapessoal
+- [ ] Encher o filtro de água #rotinapessoal
+- [ ] Aguar as plantas #rotinapessoal
+- [ ] 15 minutos de destralhe #rotinapessoal
+- [ ] Recolher o lixo #rotinapessoal
+- [ ] Revisão Mensal #rotinapessoal
+- [ ] Revisão semanal #rotinapessoal
+- [ ] Planejamento semanal #rotinapessoal
+- [ ] Limpeza no files #rotinapessoal
